@@ -25,7 +25,7 @@ background process is well below a threshold, a new particle is considered to ha
 been discovered. The ATLAS experiment observed a signal of the Higgs Boson
 decaying into two tau particles, although it was buried in significant amount of noise.
 
-## Goal
+##Goal
 
 The goal of the Challenge is to improve the classification procedure that produces the selection
 region.The objective is a function of the weights of selected events.
