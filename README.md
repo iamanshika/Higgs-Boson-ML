@@ -8,6 +8,8 @@ Link to the Notebook Link Submission for Higgs Boson EDA, Baseline & Ensemble: [
 
 Link to Notebook with VIME implementation of self supervised learning in the tabular domain: [Click here to see notebook](VIME_implementation.ipynb)
 
+Link to Report and Video: [Click here to open Drive Folder](https://drive.google.com/drive/folders/1mBSDZf_m0Q3JQdjFnnCtOWi71v4K_5WZ?usp=sharing)
+
 The discovery of Higgs particle was announced on 4th July 2012. In 2013, Nobel
 Prize was conferred upon two scientists, Francois Englert and Peter Higgs for their
 contribution towards its discovery. A characteristic property of Higgs Boson is its
