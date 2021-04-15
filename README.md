@@ -51,5 +51,3 @@ computed from the primitive features.
 5. Ensemble - Random Forest Classifier - 84% Accuracy
 6. Ensemble - Bagging Classigier - 84% Accuracy
 7. VIME Self-supervised implementation - 54% Accuracy
-
-Please look at Hiigs_boson_analysis.ipynb and VIME_implementation.ipynb for work done.
