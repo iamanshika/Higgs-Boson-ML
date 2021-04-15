@@ -2,6 +2,7 @@
 
 **Team Members: Anshika, Niegil, Sakthisree, Vishnu**
 
+*PDF also available in the repo.*
 
 The discovery of Higgs particle was announced on 4th July 2012. In 2013, Nobel
 Prize was conferred upon two scientists, Francois Englert and Peter Higgs for their
