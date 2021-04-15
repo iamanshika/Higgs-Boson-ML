@@ -4,7 +4,9 @@
 
 *PDF also available in the repo.*
 
-Link to the Collab Notebook Link Submission: [Click here to see notebook](https://colab.research.google.com/drive/185zbElJ5x3YqH8lHDW1axSAh_Xikd69F?usp=sharing)
+Link to the Notebook Link Submission for Higgs Boson EDA, Baseline & Ensemble: [Click here to see notebook](https://colab.research.google.com/drive/185zbElJ5x3YqH8lHDW1axSAh_Xikd69F?usp=sharing)
+
+Link to Notebook with VIME implementation of self supervised learning in the tabular domain: [Click here to see notebook](VIME_implementation.ipynb)
 
 The discovery of Higgs particle was announced on 4th July 2012. In 2013, Nobel
 Prize was conferred upon two scientists, Francois Englert and Peter Higgs for their
