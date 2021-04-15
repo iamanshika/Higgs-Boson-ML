@@ -25,7 +25,7 @@ background process is well below a threshold, a new particle is considered to ha
 been discovered. The ATLAS experiment observed a signal of the Higgs Boson
 decaying into two tau particles, although it was buried in significant amount of noise.
 
-##Goal
+## Goal
 
 The goal of the Challenge is to improve the classification procedure that produces the selection
 region.The objective is a function of the weights of selected events.
@@ -38,7 +38,7 @@ the momenta of particles. Variables prefixed with DER (for DERived) are quantiti
 computed from the primitive features.
 
 
-##Approach
+## Approach
 1. Data Loading
 2. Data Pre processing - Removing Highly correlated features, log transformations, and SMOTE upsampling
 3. Baseline Logistic Regression - 71% Accuracy
